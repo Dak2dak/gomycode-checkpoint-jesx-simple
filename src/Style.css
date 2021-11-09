@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&family=Lora&family=Mohave&family=Montserrat+Alternates:wght@300&display=swap');
+
+.title{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    color: rgb(216, 144, 144);
+    font-weight: 600;
+    box-shadow: 1px 5px 10px rgb(216, 144, 144);
+}
